@@ -24,12 +24,12 @@
 
 <h3><p align="center">Демонстрация работы поиска</p></h3>
 
-<p align="center"> <img src=https://github.com/Sergey-Shteyman/Library/blob/main/Screenshots/Search.png width="300" height="650"></p>
+<p align="center"> <img src=https://github.com/Sergey-Shteyman/Library/blob/main/Screenshots/Search.png width="320" height="650"></p>
 
 <h3><p align="center">Поддержка интерфейса до iPhone SE первого поколения</p></h3>
 
-<p align="center"> <img src=https://github.com/Sergey-Shteyman/Library/blob/main/Screenshots/Support.png width="300" height="650"></p>
+<p align="center"> <img src=https://github.com/Sergey-Shteyman/Library/blob/main/Screenshots/Support.png width="320" height="650"></p>
 
 <h3><p align="center">Работа адаптивных констрейнтов при перевороте экрана</p></h3>
 
-<p align="center"> <img src=https://github.com/Sergey-Shteyman/Library/blob/main/Screenshots/Layout.png width="300" height="650"></p>
+<p align="center"> <img src=https://github.com/Sergey-Shteyman/Library/blob/main/Screenshots/Layout.png width="650" height="320"></p>
